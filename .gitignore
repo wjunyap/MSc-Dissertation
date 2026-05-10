@@ -1,0 +1,18 @@
+# --- DualSPHysics / CFD Outputs ---
+# These folders contain the heavy simulation data you don't want on GitHub
+out/
+data/
+*.bi4
+*.vtk
+*.csv
+# (Keep CSVs only if they are small post-processing results)
+
+# --- System Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Python / MATLAB Junk ---
+__pycache__/
+*.pyc
+*.asv
+*.mat
