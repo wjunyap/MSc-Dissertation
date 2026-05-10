@@ -1,4 +1,4 @@
-Optimal Design of Coastal Defences using SPH
+###Optimal Design of Coastal Defences using SPH
 
 MSc Advanced Aerospace Engineering Dissertation | University of Liverpool
 1. Overview
@@ -42,4 +42,4 @@ I modeled and compared four distinct geometries:
 
     /Post-Processing_Scripts: Automation and extraction scripts used in the project. 
 
-    ≈Final_Report.pdf: Full 50-page technical dissertation
+    Final_Report.pdf: Full 50-page technical dissertation
