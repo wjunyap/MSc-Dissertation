@@ -1,4 +1,4 @@
-###Optimal Design of Coastal Defences using SPH
+Optimal Design of Coastal Defences using SPH
 
 MSc Advanced Aerospace Engineering Dissertation | University of Liverpool
 1. Overview
